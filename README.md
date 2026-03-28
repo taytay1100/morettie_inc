@@ -18,4 +18,4 @@ An interactive sales analysis created to assist stakeholders in tracking import
 4. 📌 Business Goal
 To measure monthly sales performance across product lines and identify areas of under‑performance for strategic focus.
   
-Dashboard Priview: https://github.com/taytay1100/morettie_inc/blob/main/Moretti_Inc_Sales.png
+Dashboard Priview: [https://github.com/taytay1100/morettie_inc/blob/main/Moretti_Inc_Sales.png](https://github.com/taytay1100/morettie_inc/blob/main/Moretti_Sales_Analysis.jpeg)
