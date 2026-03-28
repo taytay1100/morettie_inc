@@ -15,7 +15,10 @@ An interactive sales analysis created to assist stakeholders in tracking import
    *Power BI Service for publishing dashboards
    * MS Excel for dataset input
   
-4. 📌 Business Goal
-To measure monthly sales performance across product lines and identify areas of under‑performance for strategic focus.
+4. Business Goal: 
+    - To measure monthly sales performance across product lines and identify areas of under‑performance for strategic focus.
+    - Compare sales representatives’ performance against targets to identify high and low performers.
+    - Analyze monthly sales trends and brand contribution to identify growth opportunities.
+    - Generate insights used for sales forecasting and strategic planning.
   
 ### Dashboard Preview: ![Dashboard](https://github.com/taytay1100/morettie_inc/blob/main/Moretti_Sales_Analysis.jpeg)
